@@ -67,7 +67,7 @@ const ErrorDisplay = ({ error, onRetry }: IErrorDisplayProps) => (
 
 export default function Home() {
   // ========== Custom Hooks ==========
-  const { data: emotions, rawData, isLoading, error, progress, refetch } = useEmotionData();
+  const { data: emotions, rawData, isLoading, error, progress, refetch } = useEmotionData(true);
   
   const { hoveredItem: hoveredPoint, setHoveredItem } = useHover<IRenderablePoint>();
   const { viewport } = useViewport();
@@ -80,12 +80,21 @@ export default function Home() {
 
   // ========== Service Worker 등록 ==========
   useEffect(() => {
-    const swManager = ServiceWorkerManager.getInstance();
-    swManager.register().then((registration) => {
-      if (registration) {
-        console.log('[App] Service Worker registered successfully');
-      }
-    });
+    // 임시로 Service Worker 비활성화 (디버깅용)
+    console.log('[App] Service Worker disabled for debugging');
+    
+    // const swManager = ServiceWorkerManager.getInstance();
+    // swManager.register().then((registration) => {
+    //   if (registration) {
+    //     console.log('[App] Service Worker registered successfully');
+        
+    //     // 개발 환경에서 캐시 클리어 (문제 해결을 위해)
+    //     if (process.env.NODE_ENV === 'development') {
+    //       console.log('[App] Clearing caches for development...');
+    //       swManager.clearCache();
+    //     }
+    //   }
+    // });
   }, []);
 
   // ========== Search ==========
@@ -153,76 +162,68 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100">
-      {/* 헤더 */}
-      <header className="bg-white shadow-sm border-b">
-        <div className="max-w-7xl mx-auto px-4 py-4">
-          <h1 className="text-3xl font-bold text-gray-900">
-            V-A 감정 공간 시각화
-          </h1>
-          <p className="text-gray-600 mt-2">
-            Valence-Arousal 2차원 감정 분석 시스템
-          </p>
-        </div>
-      </header>
 
       {/* 메인 컨텐츠 */}
       <main className="max-w-7xl mx-auto px-4 py-6">
-        <div className="bg-white rounded-lg shadow-lg p-6">
-          {/* 컨트롤 패널 */}
-          <Controls
-            searchTerm={searchTerm}
-            onSearchChange={handleSearchChange}
-            showPrototypes={showPrototypes}
-            onTogglePrototypes={handleTogglePrototypes}
-            totalPoints={rawData?.length || 0}
-            visiblePoints={filteredEmotions.length}
-          />
+        <div className="flex flex-col lg:flex-row gap-8">
+          {/* 왼쪽: V-A 평면 */}
+          <div className="flex-1 flex flex-col items-center justify-center">
+            <div className="bg-white rounded-lg shadow-lg p-6 w-full">
+              {/* 컨트롤 패널 */}
+              <Controls
+                searchTerm={searchTerm}
+                onSearchChange={handleSearchChange}
+                showPrototypes={showPrototypes}
+                onTogglePrototypes={handleTogglePrototypes}
+                totalPoints={rawData?.length || 0}
+                visiblePoints={filteredEmotions.length}
+              />
 
-          {/* V-A 평면 */}
-          <div className="relative va-plane-container" onMouseMove={handleMouseMove}>
-            <VAPlane showGrid showAxes showLabels>
-              {/* 산점도 */}
-              {filteredEmotions.length > 10000 ? (
-                <VirtualizedScatterPlot
-                  points={filteredEmotions}
-                  viewport={{
-                    minX: -1.1,
-                    maxX: 1.1,
-                    minY: -1.1,
-                    maxY: 1.1,
-                  }}
-                  onHover={setHoveredItem}
-                  hoveredPoint={hoveredPoint}
-                  isPartial={isLoading}
+              {/* V-A 평면 */}
+              <div className="relative va-plane-container mt-6" onMouseMove={handleMouseMove}>
+                <VAPlane showGrid showAxes showLabels>
+                  {/* 산점도 */}
+                  {filteredEmotions.length > 10000 ? (
+                    <VirtualizedScatterPlot
+                      points={filteredEmotions}
+                      viewport={{
+                        minX: -1.1,
+                        maxX: 1.1,
+                        minY: -1.1,
+                        maxY: 1.1,
+                      }}
+                      onHover={setHoveredItem}
+                      hoveredPoint={hoveredPoint}
+                      isPartial={isLoading}
+                    />
+                  ) : (
+                    <ScatterPlot
+                      points={filteredEmotions}
+                      onHover={setHoveredItem}
+                      hoveredPoint={hoveredPoint}
+                      isPartial={isLoading}
+                    />
+                  )}
+
+                  {/* 감정 프로토타입 */}
+                  <EmotionPrototypes visible={showPrototypes} />
+                </VAPlane>
+
+                {/* 툴팁 */}
+                <EmotionTooltip 
+                  point={hoveredPoint}
+                  position={getTooltipPosition(hoveredPoint)}
                 />
-              ) : (
-                <ScatterPlot
-                  points={filteredEmotions}
-                  onHover={setHoveredItem}
-                  hoveredPoint={hoveredPoint}
-                  isPartial={isLoading}
-                />
-              )}
-
-              {/* 감정 프로토타입 */}
-              <EmotionPrototypes visible={showPrototypes} />
-            </VAPlane>
-
-            {/* 툴팁 */}
-            <EmotionTooltip 
-              point={hoveredPoint}
-              position={getTooltipPosition(hoveredPoint)}
-            />
+              </div>
+            </div>
           </div>
 
-          {/* 범례 */}
-          <Legend />
-        </div>
-
-        {/* 푸터 정보 */}
-        <div className="mt-6 text-center text-sm text-gray-500">
-          <p>Warriner 2013 × NRC VAD v2.1 병합 데이터</p>
-          <p className="mt-1">VEATIC 연구팀 © 2025</p>
+          {/* 오른쪽: 범례 */}
+          <div className="w-full lg:w-80">
+            <div className="bg-white rounded-lg shadow-lg p-6">
+              <Legend />
+            </div>
+          </div>
         </div>
       </main>
     </div>

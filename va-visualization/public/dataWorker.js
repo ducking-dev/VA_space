@@ -196,11 +196,14 @@ self.addEventListener('message', (event) => {
 });
 
 // Worker 초기화 완료 알림
-self.postMessage({
-  type: 'INITIALIZED',
-  message: 'Data Worker initialized successfully'
-});
-
-console.log('[DataWorker] Web Worker started');
+try {
+  self.postMessage({
+    type: 'INITIALIZED',
+    message: 'Data Worker initialized successfully'
+  });
+  console.log('[DataWorker] Web Worker started successfully');
+} catch (error) {
+  console.error('[DataWorker] Failed to send initialization message:', error);
+}
 
 

@@ -191,8 +191,8 @@ export const VAPlane = memo<IVAPlaneProps>(({
   showGrid = true,
   showAxes = true,
   showLabels = true,
-  width = '70%',
-  height = '70%',
+  width = '66%',
+  height = '66%',
 }) => {
   const { VALENCE, AROUSAL } = VA_COORDINATE_RANGE;
   const padding = 0.1;
@@ -206,7 +206,7 @@ export const VAPlane = memo<IVAPlaneProps>(({
       viewBox={viewBox}
       className="border border-gray-300 rounded-lg bg-white mx-auto"
       style={{ 
-        maxWidth: '70%',
+        maxWidth: '66%',
         aspectRatio: '1 / 1', // 정사각형으로 만들기
         display: 'block',
       }}

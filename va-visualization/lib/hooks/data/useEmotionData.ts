@@ -41,6 +41,8 @@ export function useEmotionData(autoLoad: boolean = true): IUseEmotionDataReturn 
 
   const loadData = useCallback(async () => {
     console.log('[useEmotionData] Starting data load...');
+    console.log('[useEmotionData] Environment:', process.env.NODE_ENV);
+    console.log('[useEmotionData] User Agent:', navigator.userAgent);
     const monitor = PerformanceMonitor.getInstance();
     const endTiming = monitor.startTiming('useEmotionData.loadData');
 
@@ -72,13 +74,14 @@ export function useEmotionData(autoLoad: boolean = true): IUseEmotionDataReturn 
     } finally {
       endTiming();
     }
-  }, []);
+  }, [loaderRef]);
 
   useEffect(() => {
     if (autoLoad) {
+      console.log('[useEmotionData] Auto-loading data...');
       loadData();
     }
-  }, [autoLoad, loadData]);
+  }, [autoLoad]); // loadData 의존성 제거
 
   const refetch = useCallback(async () => {
     await loadData();
@@ -103,23 +106,14 @@ export function useEmotionData(autoLoad: boolean = true): IUseEmotionDataReturn 
       const endTiming = monitor.startTiming('useEmotionData.transformData');
       
       try {
-        // Web Worker 사용 시도
-        const workerManager = WebWorkerManager.getInstance();
-        const result = await workerManager.transformData(rawData, 800, 600);
-        console.log(`[useEmotionData] Web Worker transformation completed - result length: ${result?.length || 0}`);
+        // 임시로 Web Worker 비활성화하고 메인 스레드에서만 처리
+        console.log('[useEmotionData] Using main thread transformation (Web Worker disabled for debugging)');
+        const result = transformerRef.current.transformToRenderable(rawData, 800, 600);
+        console.log(`[useEmotionData] Main thread transformation completed - result length: ${result?.length || 0}`);
         setRenderableData(result);
       } catch (error) {
-        console.warn('[useEmotionData] Web Worker transformation failed, falling back to main thread:', error);
-        
-        // Web Worker 실패 시 메인 스레드에서 변환
-        try {
-          const result = transformerRef.current.transformToRenderable(rawData, 800, 600);
-          console.log(`[useEmotionData] Main thread transformation completed - result length: ${result?.length || 0}`);
-          setRenderableData(result);
-        } catch (fallbackError) {
-          console.error('[useEmotionData] Error during fallback transformation:', fallbackError);
-          setRenderableData(null);
-        }
+        console.error('[useEmotionData] Error during main thread transformation:', error);
+        setRenderableData(null);
       } finally {
         endTiming();
         setIsTransforming(false);
@@ -128,6 +122,17 @@ export function useEmotionData(autoLoad: boolean = true): IUseEmotionDataReturn 
 
     transformData();
   }, [rawData]);
+
+  // 디버깅을 위한 상태 로깅
+  console.log('[useEmotionData] Current state:', {
+    state,
+    rawDataLength: rawData?.length || 0,
+    renderableDataLength: renderableData?.length || 0,
+    isLoading: state === 'loading' || isTransforming,
+    isTransforming,
+    progress,
+    error: error?.message
+  });
 
   return {
     data: renderableData,

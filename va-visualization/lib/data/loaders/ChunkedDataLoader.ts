@@ -57,8 +57,12 @@ export class ChunkedDataLoader implements IProgressiveDataLoader {
         const progress = (loadedChunks / totalChunks) * 100;
         console.log(`[ChunkedDataLoader] Chunk ${loadedChunks}/${totalChunks} completed, Progress: ${progress.toFixed(1)}%`);
         console.log(`[ChunkedDataLoader] Calling onProgress with progress: ${progress}, chunk size: ${chunk.length}`);
-        onProgress(progress, chunk);
-        console.log(`[ChunkedDataLoader] onProgress called successfully`);
+        try {
+          onProgress(progress, chunk);
+          console.log(`[ChunkedDataLoader] onProgress called successfully`);
+        } catch (error) {
+          console.error(`[ChunkedDataLoader] Error calling onProgress:`, error);
+        }
       });
     }
     console.log('[ChunkedDataLoader] Progressive data loading completed');
@@ -66,16 +70,27 @@ export class ChunkedDataLoader implements IProgressiveDataLoader {
 
   private async loadChunk(chunkId: number): Promise<IEmotionData[]> {
     console.log(`[ChunkedDataLoader] Fetching chunk ${chunkId}...`);
-    const response = await fetch(`/api/emotions/chunk/${chunkId}?compress=true`);
-    if (!response.ok) {
-      console.error(`[ChunkedDataLoader] Failed to load chunk ${chunkId}: ${response.status} ${response.statusText}`);
-      throw new Error(`Failed to load chunk ${chunkId}`);
+    try {
+      const response = await fetch(`/api/emotions/chunk/${chunkId}?compress=true`);
+      if (!response.ok) {
+        console.error(`[ChunkedDataLoader] Failed to load chunk ${chunkId}: ${response.status} ${response.statusText}`);
+        throw new Error(`Failed to load chunk ${chunkId}: ${response.status} ${response.statusText}`);
+      }
+      const rawData: IRawEmotionData[] = await response.json();
+      console.log(`[ChunkedDataLoader] Chunk ${chunkId} loaded successfully - ${rawData.length} raw items`);
+      
+      if (!Array.isArray(rawData)) {
+        console.error(`[ChunkedDataLoader] Chunk ${chunkId} data is not an array:`, rawData);
+        throw new Error(`Chunk ${chunkId} data is not an array`);
+      }
+      
+      const normalizedData = rawData.map((raw) => this.normalizeEmotionData(raw));
+      console.log(`[ChunkedDataLoader] Chunk ${chunkId} normalized - ${normalizedData.length} items`);
+      return normalizedData;
+    } catch (error) {
+      console.error(`[ChunkedDataLoader] Error loading chunk ${chunkId}:`, error);
+      throw error;
     }
-    const rawData: IRawEmotionData[] = await response.json();
-    console.log(`[ChunkedDataLoader] Chunk ${chunkId} loaded successfully - ${rawData.length} raw items`);
-    const normalizedData = rawData.map((raw) => this.normalizeEmotionData(raw));
-    console.log(`[ChunkedDataLoader] Chunk ${chunkId} normalized - ${normalizedData.length} items`);
-    return normalizedData;
   }
 
   /**

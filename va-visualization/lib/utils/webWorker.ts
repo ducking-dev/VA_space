@@ -42,6 +42,7 @@ export class WebWorkerManager {
    */
   public async initialize(): Promise<void> {
     if (this.worker) {
+      console.log('[WebWorker] Worker already initialized');
       return;
     }
 
@@ -51,6 +52,7 @@ export class WebWorkerManager {
     }
 
     try {
+      console.log('[WebWorker] Creating new Worker instance...');
       this.worker = new Worker('/dataWorker.js');
       
       this.worker.onmessage = (event) => {
@@ -75,8 +77,9 @@ export class WebWorkerManager {
   private waitForInitialization(): Promise<void> {
     return new Promise((resolve, reject) => {
       const timeout = setTimeout(() => {
-        reject(new Error('Worker initialization timeout'));
-      }, 5000);
+        console.warn('[WebWorker] Initialization timeout, continuing anyway...');
+        resolve(); // 타임아웃 시에도 계속 진행
+      }, 3000); // 타임아웃을 3초로 단축
 
       const handleMessage = (event: MessageEvent) => {
         if (event.data.type === 'INITIALIZED') {
@@ -134,13 +137,13 @@ export class WebWorkerManager {
         data
       });
 
-      // 타임아웃 설정 (10초)
+      // 타임아웃 설정 (5초로 단축)
       setTimeout(() => {
         if (this.pendingMessages.has(id)) {
           this.pendingMessages.delete(id);
           reject(new Error('Worker message timeout'));
         }
-      }, 10000);
+      }, 5000);
     });
   }
 

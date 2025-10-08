@@ -26,6 +26,9 @@ export class ServiceWorkerManager {
 
     try {
       console.log('[SW] Registering Service Worker...');
+      console.log('[SW] Current location:', window.location.href);
+      console.log('[SW] Service Worker URL:', '/sw.js');
+      
       this.registration = await navigator.serviceWorker.register('/sw.js', {
         scope: '/'
       });
@@ -94,7 +97,14 @@ export class ServiceWorkerManager {
       if (this.registration.active) {
         this.registration.active.postMessage({ type: 'CLEAR_CACHE' });
       }
-      console.log('[SW] Cache clear requested');
+      
+      // 모든 캐시 삭제
+      const cacheNames = await caches.keys();
+      await Promise.all(
+        cacheNames.map(cacheName => caches.delete(cacheName))
+      );
+      
+      console.log('[SW] All caches cleared');
     } catch (error) {
       console.error('[SW] Failed to clear cache:', error);
     }
