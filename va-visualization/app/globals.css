@@ -1,0 +1,90 @@
+/**
+ * Global CSS
+ * 성능 최적화: 최소한의 스타일, GPU 가속
+ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================================================
+   Performance Optimizations
+   ============================================================================ */
+
+* {
+  /* GPU 가속 */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 스크롤 성능 최적화 */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-slate-50 text-gray-900;
+  /* will-change: transform; */ /* 필요시에만 사용 */
+}
+
+/* ============================================================================
+   Custom Utilities
+   ============================================================================ */
+
+@layer utilities {
+  /* GPU 가속 애니메이션 */
+  .gpu-accelerated {
+    transform: translateZ(0);
+    will-change: transform;
+  }
+
+  /* 터치 영역 확대 (모바일 최적화) */
+  .touch-target {
+    min-width: 44px;
+    min-height: 44px;
+  }
+
+  /* 텍스트 선택 방지 */
+  .no-select {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+}
+
+/* ============================================================================
+   Component Styles
+   ============================================================================ */
+
+/* SVG 최적화 */
+svg {
+  shape-rendering: geometricPrecision;
+  text-rendering: optimizeLegibility;
+}
+
+/* 애니메이션 성능 최적화 */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ============================================================================
+   Print Styles
+   ============================================================================ */
+
+@media print {
+  body {
+    @apply bg-white;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+}
+

@@ -1,0 +1,7002 @@
+[
+  {
+    "term": "hurrah",
+    "valence": 0.604,
+    "arousal": 0.48,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "finance",
+    "valence": 0.2292,
+    "arousal": 0.006,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "exquisitely",
+    "valence": 0.698,
+    "arousal": 0.456,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "axillary",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "postorbital",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "acquainted",
+    "valence": 0.812,
+    "arousal": -0.284,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "trilobite",
+    "valence": 0,
+    "arousal": -1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "wreathe",
+    "valence": 0.625,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "nonchemical",
+    "valence": 0.095,
+    "arousal": -0.583,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "adjudicate",
+    "valence": 0.118,
+    "arousal": 0.04,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "woodchuck",
+    "valence": 0.042,
+    "arousal": -0.593,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "trilateral",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "bitty",
+    "valence": -0.011,
+    "arousal": -0.404,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "reef",
+    "valence": 0.1618,
+    "arousal": -0.1762,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "bourse",
+    "valence": 0.06,
+    "arousal": -0.54,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "incisory",
+    "valence": 0,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "learnedness",
+    "valence": 0.667,
+    "arousal": -0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "classification",
+    "valence": 0.0542,
+    "arousal": -0.2707,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "unseaworthy",
+    "valence": -0.905,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "parallelogram",
+    "valence": 0,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "assign",
+    "valence": 0.0907,
+    "arousal": -0.2442,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "particularize",
+    "valence": 0,
+    "arousal": 0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "whatnot",
+    "valence": -0.065,
+    "arousal": -0.3083,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "bus stop",
+    "valence": -0.134,
+    "arousal": -0.16,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "appendix",
+    "valence": -0.1588,
+    "arousal": -0.373,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "dirty",
+    "valence": -0.5757,
+    "arousal": -0.0338,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "brazenness",
+    "valence": -0.611,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "chameleon",
+    "valence": 0.1525,
+    "arousal": -0.0212,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "aground",
+    "valence": -0.334,
+    "arousal": -0.32,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "take cover",
+    "valence": -0.414,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "linkup",
+    "valence": 0.667,
+    "arousal": 0.611,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "cloudscape",
+    "valence": 0.667,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "construe",
+    "valence": 0.204,
+    "arousal": 0.038,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "did good",
+    "valence": 0.58,
+    "arousal": -0.152,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "doggie",
+    "valence": 0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "hedonistically",
+    "valence": 0.5,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "anachronistically",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "therapeutics",
+    "valence": 0.104,
+    "arousal": -0.314,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "make him",
+    "valence": 0.116,
+    "arousal": -0.106,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "white dress",
+    "valence": 0.534,
+    "arousal": -0.274,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "lapboard",
+    "valence": 0,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "personality disorder",
+    "valence": -0.656,
+    "arousal": 0.378,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "upperclassman",
+    "valence": 0.667,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "moral support",
+    "valence": 0.158,
+    "arousal": 0.048,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "push away",
+    "valence": -0.288,
+    "arousal": 0.108,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "centenarian",
+    "valence": 1,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "veined",
+    "valence": -0.026,
+    "arousal": -0.082,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "fairgoer",
+    "valence": 0.667,
+    "arousal": 0.63,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "lama",
+    "valence": 0.12,
+    "arousal": -0.36,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "unforeseeable",
+    "valence": 0,
+    "arousal": -0.458,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "zigzag",
+    "valence": -0.0605,
+    "arousal": 0.1585,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "tribalism",
+    "valence": -0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "car park",
+    "valence": 0.068,
+    "arousal": -0.328,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "advent calendar",
+    "valence": 0.42,
+    "arousal": -0.054,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "guidelines",
+    "valence": -0.082,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "thoughtlessly",
+    "valence": -0.667,
+    "arousal": 0.375,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "check in",
+    "valence": 0.192,
+    "arousal": -0.124,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "circularization",
+    "valence": 0,
+    "arousal": 0.583,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "persuade",
+    "valence": 0.2037,
+    "arousal": -0.0508,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "atheist",
+    "valence": -0.09,
+    "arousal": -0.06,
+    "confidence": 0.8,
+    "merge_strategy": "warriner_only"
+  },
+  {
+    "term": "armenian",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "onside",
+    "valence": 0.667,
+    "arousal": 0.381,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "imperceptive",
+    "valence": -0.667,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "alzheimer",
+    "valence": -1,
+    "arousal": -0.625,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "hierarchal",
+    "valence": 0.111,
+    "arousal": -0.556,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "clipped",
+    "valence": -0.476,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "out there",
+    "valence": -0.366,
+    "arousal": -0.09,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "concoction",
+    "valence": 0.013,
+    "arousal": -0.146,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "enjoyment",
+    "valence": 0.8512,
+    "arousal": 0.172,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "urinate",
+    "valence": -0.2475,
+    "arousal": -0.1312,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "gangbang",
+    "valence": -1,
+    "arousal": 1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "tiebreaker",
+    "valence": 0.667,
+    "arousal": 0.952,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "drive",
+    "valence": 0.3125,
+    "arousal": 0.0877,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "elocutionist",
+    "valence": 0.667,
+    "arousal": 0.63,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "viking",
+    "valence": 0.082,
+    "arousal": 0.51,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "reexamination",
+    "valence": 0.333,
+    "arousal": 0.625,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "hipness",
+    "valence": 0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "whole meal",
+    "valence": 0.25,
+    "arousal": -0.06,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "righteously",
+    "valence": 0.667,
+    "arousal": 0.583,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "gushy",
+    "valence": -0.556,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "unaltered",
+    "valence": 0.142,
+    "arousal": -0.462,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "eligible",
+    "valence": 0.4313,
+    "arousal": -0.1237,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "moldiness",
+    "valence": -0.667,
+    "arousal": -1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "despot",
+    "valence": -1,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "undying",
+    "valence": 0.2517,
+    "arousal": -0.0312,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "sneezer",
+    "valence": 0,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "sports fan",
+    "valence": 0.366,
+    "arousal": 0.318,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "soft skills",
+    "valence": 0.518,
+    "arousal": -0.184,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "evidently",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "short run",
+    "valence": -0.354,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "nonexistence",
+    "valence": -0.714,
+    "arousal": -1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "marketability",
+    "valence": 0.852,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "heathenism",
+    "valence": -0.667,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "stir up",
+    "valence": -0.162,
+    "arousal": 0.2,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "decadency",
+    "valence": -0.667,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "disregardful",
+    "valence": -1,
+    "arousal": 0.476,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "erogenous",
+    "valence": 0.667,
+    "arousal": 0.556,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "crease",
+    "valence": -0.0775,
+    "arousal": -0.339,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "summed",
+    "valence": 0,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "stick",
+    "valence": -0.0703,
+    "arousal": -0.2848,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "delineative",
+    "valence": 0.056,
+    "arousal": -0.583,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "welfare state",
+    "valence": 0.072,
+    "arousal": -0.106,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "bayonet",
+    "valence": -0.277,
+    "arousal": 0.2062,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "omissible",
+    "valence": -0.095,
+    "arousal": -0.875,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "remunerative",
+    "valence": 0.952,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "unbeknownst",
+    "valence": 0,
+    "arousal": -0.222,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "rise up",
+    "valence": 0.17,
+    "arousal": 0.108,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "unglue",
+    "valence": -0.619,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "vastness",
+    "valence": 0.667,
+    "arousal": -1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "thanksgiving day",
+    "valence": 0.934,
+    "arousal": 0.106,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "ornithological",
+    "valence": 0.278,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "potential",
+    "valence": 0.5385,
+    "arousal": 0.0112,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "horseback riding",
+    "valence": 0.534,
+    "arousal": 0.03,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "interhemispheric",
+    "valence": 0,
+    "arousal": -0.583,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "inventor",
+    "valence": 0.4323,
+    "arousal": 0.1195,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "double negative",
+    "valence": -0.724,
+    "arousal": 0.152,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "persuasion",
+    "valence": 0.1957,
+    "arousal": 0.19,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "pertness",
+    "valence": -0.208,
+    "arousal": 0.625,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "garage door",
+    "valence": -0.138,
+    "arousal": 0.046,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "divestment",
+    "valence": -0.396,
+    "arousal": 0.018,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "homographic",
+    "valence": 0,
+    "arousal": -0.167,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "naysayer",
+    "valence": -0.667,
+    "arousal": 0.625,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "darkest",
+    "valence": -0.586,
+    "arousal": -0.184,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "naturalist",
+    "valence": 0.688,
+    "arousal": -0.49,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "mirror image",
+    "valence": 0.108,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "nomination",
+    "valence": 0.2417,
+    "arousal": 0.017,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "dub in",
+    "valence": -0.258,
+    "arousal": 0.024,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "equidistant",
+    "valence": -0.25,
+    "arousal": -0.188,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "abrasiveness",
+    "valence": -0.542,
+    "arousal": 0.611,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "a roll",
+    "valence": 0.138,
+    "arousal": -0.016,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "preformed",
+    "valence": 0,
+    "arousal": -0.458,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "sizably",
+    "valence": 0.125,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "muzzle",
+    "valence": -0.2432,
+    "arousal": -0.1137,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "nowork",
+    "valence": -0.376,
+    "arousal": -0.472,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "refill",
+    "valence": 0.23,
+    "arousal": -0.285,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "selfie",
+    "valence": 0.178,
+    "arousal": -0.184,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "healthcare",
+    "valence": 0.25,
+    "arousal": -0.163,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "unbeliever",
+    "valence": -0.519,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "codifier",
+    "valence": 0.5,
+    "arousal": 0.524,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "back pain",
+    "valence": -0.334,
+    "arousal": -0.064,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "chief",
+    "valence": 0.1237,
+    "arousal": -0.1747,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "profitability",
+    "valence": 1,
+    "arousal": 0.625,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "bait",
+    "valence": -0.349,
+    "arousal": -0.3605,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "monumental",
+    "valence": 0.2485,
+    "arousal": 0.124,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "tryout",
+    "valence": 0.0253,
+    "arousal": -0.0622,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "on time",
+    "valence": 0.194,
+    "arousal": -0.254,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "witless",
+    "valence": -0.552,
+    "arousal": -0.2432,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "cocksure",
+    "valence": -0.375,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "woodshop",
+    "valence": 0.375,
+    "arousal": 0.429,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "direct result",
+    "valence": 0.322,
+    "arousal": 0.168,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "conservatorship",
+    "valence": 0.095,
+    "arousal": -0.583,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "key lime",
+    "valence": 0.142,
+    "arousal": -0.312,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "grandnephew",
+    "valence": 0,
+    "arousal": -0.048,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "dismal",
+    "valence": -0.606,
+    "arousal": -0.2637,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "omgomgomg",
+    "valence": -0.02,
+    "arousal": 0.102,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "steeplechaser",
+    "valence": 0.667,
+    "arousal": 1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "guessing game",
+    "valence": 0.112,
+    "arousal": 0.076,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "motivational",
+    "valence": 0.626,
+    "arousal": 0.3172,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "agelessness",
+    "valence": 0.792,
+    "arousal": -0.815,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "root canal",
+    "valence": -0.484,
+    "arousal": 0.184,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "happy holidays",
+    "valence": 0.896,
+    "arousal": 0.084,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "traveling",
+    "valence": 0.8,
+    "arousal": 0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "run by",
+    "valence": -0.034,
+    "arousal": 0.256,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "social studies",
+    "valence": 0.42,
+    "arousal": -0.028,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "cartoon character",
+    "valence": 0.138,
+    "arousal": 0.076,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "porcine",
+    "valence": -0.37,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "dominate",
+    "valence": -0.136,
+    "arousal": 0.489,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "urination",
+    "valence": -0.4015,
+    "arousal": -0.134,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "mantra",
+    "valence": -0.0452,
+    "arousal": -0.441,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "maternally",
+    "valence": 0.524,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "center on",
+    "valence": 0.032,
+    "arousal": -0.214,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "miscellaneous",
+    "valence": 0.0785,
+    "arousal": -0.304,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "visiting team",
+    "valence": 0.104,
+    "arousal": 0.278,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "calamitously",
+    "valence": -1,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "slumber party",
+    "valence": 0.354,
+    "arousal": 0.196,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "correlated",
+    "valence": 0.111,
+    "arousal": 0.583,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "each other",
+    "valence": -0.318,
+    "arousal": -0.194,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "polemic",
+    "valence": -0.734,
+    "arousal": 0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "supervisory",
+    "valence": 0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "hookup",
+    "valence": 0.2225,
+    "arousal": 0.0052,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "employ",
+    "valence": 0.3402,
+    "arousal": -0.1652,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "nippy",
+    "valence": 0.0138,
+    "arousal": 0.0563,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "overtake",
+    "valence": -0.0582,
+    "arousal": 0.04,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "illogical",
+    "valence": -0.4795,
+    "arousal": 0.1025,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "disco ball",
+    "valence": 0.1,
+    "arousal": 0.304,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "flattery",
+    "valence": 0.0625,
+    "arousal": 0.0875,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "rustproof",
+    "valence": 0.667,
+    "arousal": -0.875,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "hell week",
+    "valence": -0.68,
+    "arousal": 0.06,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "gentlemanlike",
+    "valence": 1,
+    "arousal": -0.556,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "moonwalker",
+    "valence": 0.542,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "provoker",
+    "valence": -0.63,
+    "arousal": 0.926,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "do in",
+    "valence": -0.096,
+    "arousal": -0.016,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "gray hair",
+    "valence": -0.466,
+    "arousal": -0.324,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "tike",
+    "valence": 0.25,
+    "arousal": 0.625,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "fresco",
+    "valence": 0.654,
+    "arousal": -0.44,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "inflector",
+    "valence": 0,
+    "arousal": 0.625,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "tooter",
+    "valence": 0,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "kitchen sink",
+    "valence": 0.13,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "body suit",
+    "valence": 0.016,
+    "arousal": -0.166,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "applauder",
+    "valence": 1,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "favorableness",
+    "valence": 0.905,
+    "arousal": -0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "demonstrate",
+    "valence": 0.3297,
+    "arousal": -0.0555,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "big problem",
+    "valence": -0.786,
+    "arousal": 0.214,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "hmm",
+    "valence": -0.052,
+    "arousal": -0.366,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "semiautonomous",
+    "valence": 0,
+    "arousal": -0.333,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "woolly",
+    "valence": 0.062,
+    "arousal": -0.204,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "delve",
+    "valence": -0.062,
+    "arousal": 0.058,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "drifted",
+    "valence": -0.376,
+    "arousal": 0.084,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "extravert",
+    "valence": 0.708,
+    "arousal": 1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "great wall",
+    "valence": 0.464,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "rendering",
+    "valence": 0.062,
+    "arousal": -0.132,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "shantytown",
+    "valence": -0.667,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "intermediateness",
+    "valence": 0,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "lightless",
+    "valence": -0.667,
+    "arousal": -1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "packhorse",
+    "valence": 0,
+    "arousal": 0.63,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "want to",
+    "valence": 0.344,
+    "arousal": -0.122,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "screw this",
+    "valence": -0.74,
+    "arousal": 0.306,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "swagger",
+    "valence": -0.334,
+    "arousal": 0.462,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "tagline",
+    "valence": 0.048,
+    "arousal": 0.167,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "round table",
+    "valence": 0.166,
+    "arousal": -0.238,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "ghostwriter",
+    "valence": -0.333,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "temp",
+    "valence": -0.0563,
+    "arousal": -0.2325,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "underweight",
+    "valence": -0.667,
+    "arousal": -0.37,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "activity",
+    "valence": 0.3523,
+    "arousal": 0.1425,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "melodic",
+    "valence": 0.933,
+    "arousal": 0.238,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "dreadful",
+    "valence": -0.708,
+    "arousal": 0.2235,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "tactlessness",
+    "valence": -0.815,
+    "arousal": -0.583,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "agglomeration",
+    "valence": -0.1,
+    "arousal": 0.53,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "provolone",
+    "valence": 0.333,
+    "arousal": 0.042,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "whichever",
+    "valence": -0.276,
+    "arousal": -0.246,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "suggestibility",
+    "valence": -0.286,
+    "arousal": -0.481,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "stability",
+    "valence": 0.4595,
+    "arousal": -0.531,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "dynamics",
+    "valence": 0.49,
+    "arousal": 0.364,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "resoluteness",
+    "valence": 0.905,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "geometer",
+    "valence": 0.667,
+    "arousal": 0.593,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "pay dividends",
+    "valence": 0,
+    "arousal": 0.152,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "wicked",
+    "valence": -0.6583,
+    "arousal": 0.4075,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "unmanned",
+    "valence": -0.23,
+    "arousal": -0.2677,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "teeny",
+    "valence": 0.0045,
+    "arousal": -0.2395,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "thimble",
+    "valence": -0.02,
+    "arousal": -0.481,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "inundator",
+    "valence": -0.611,
+    "arousal": 0.75,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "portentousness",
+    "valence": -0.625,
+    "arousal": -0.458,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "sturdiness",
+    "valence": 0.667,
+    "arousal": -0.571,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "reefer",
+    "valence": -0.0725,
+    "arousal": -0.0107,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "derived",
+    "valence": 0.083,
+    "arousal": 0.292,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "blemish",
+    "valence": -0.5185,
+    "arousal": 0.0342,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "taunt",
+    "valence": -0.617,
+    "arousal": 0.1772,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "inexactness",
+    "valence": -0.667,
+    "arousal": -0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "against",
+    "valence": -0.552,
+    "arousal": 0.096,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "understate",
+    "valence": 0,
+    "arousal": -0.389,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "promontory",
+    "valence": 0,
+    "arousal": -0.006,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "indisposition",
+    "valence": -0.667,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "monarchical",
+    "valence": 0.25,
+    "arousal": -0.037,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "secessionist",
+    "valence": -0.619,
+    "arousal": 0.708,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "undestroyed",
+    "valence": 0.905,
+    "arousal": -0.75,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "reach into",
+    "valence": -0.178,
+    "arousal": 0.338,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "onscreen",
+    "valence": 0,
+    "arousal": 0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "hearth",
+    "valence": 0.3675,
+    "arousal": -0.3987,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "covetousness",
+    "valence": -0.75,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "pure gold",
+    "valence": 0.634,
+    "arousal": 0.046,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "rebuttal",
+    "valence": -0.2605,
+    "arousal": 0.14,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "artistic",
+    "valence": 0.552,
+    "arousal": 0.146,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "repugnantly",
+    "valence": -1,
+    "arousal": 0.556,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "duchess",
+    "valence": 0.2998,
+    "arousal": -0.087,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "crabbiness",
+    "valence": -1,
+    "arousal": 0.63,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "sinfully",
+    "valence": -1,
+    "arousal": 0.167,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "bladder",
+    "valence": -0.1465,
+    "arousal": -0.2405,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "reproducer",
+    "valence": 0.583,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "chewable",
+    "valence": 0.619,
+    "arousal": 0.296,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "knightliness",
+    "valence": 1,
+    "arousal": -0.524,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "parchedness",
+    "valence": -0.667,
+    "arousal": -0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "standardized",
+    "valence": 0.045,
+    "arousal": -0.3448,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "backshift",
+    "valence": -0.048,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "cohabit",
+    "valence": 0,
+    "arousal": -0.481,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "evolutionist",
+    "valence": 0.519,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "steeringwheel",
+    "valence": 0,
+    "arousal": 0.63,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "protegee",
+    "valence": 0.625,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "speciality",
+    "valence": 0.708,
+    "arousal": -0.06,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "noisemaker",
+    "valence": -0.167,
+    "arousal": 1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "nominalist",
+    "valence": 0,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "backoff",
+    "valence": -0.792,
+    "arousal": -0.208,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "apothecary",
+    "valence": 0.121,
+    "arousal": -0.2682,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "hydrocarbon",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "intermittent",
+    "valence": -0.2067,
+    "arousal": -0.11,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "recognize",
+    "valence": 0.4025,
+    "arousal": -0.285,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "text message",
+    "valence": 0.094,
+    "arousal": -0.104,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "hegemonic",
+    "valence": -0.076,
+    "arousal": 0.038,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "banshee",
+    "valence": -0.2695,
+    "arousal": 0.0762,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "lucid",
+    "valence": 0.3147,
+    "arousal": -0.0375,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "road map",
+    "valence": 0.388,
+    "arousal": -0.196,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "idyllic",
+    "valence": 0.2097,
+    "arousal": -0.2185,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "famously",
+    "valence": 0.712,
+    "arousal": 0.53,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "alcove",
+    "valence": 0.0525,
+    "arousal": -0.37,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "incongruous",
+    "valence": -0.646,
+    "arousal": 0.008,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "chauvinist",
+    "valence": -0.49,
+    "arousal": 0.0115,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "fibreless",
+    "valence": -0.63,
+    "arousal": -0.571,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "arabesque",
+    "valence": 0.667,
+    "arousal": 0.708,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "reveler",
+    "valence": 0.667,
+    "arousal": 1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "golf game",
+    "valence": 0.484,
+    "arousal": -0.046,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "troubled",
+    "valence": -0.5693,
+    "arousal": 0.0583,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "sternum",
+    "valence": -0.0487,
+    "arousal": -0.2392,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "treatment",
+    "valence": 0.163,
+    "arousal": -0.1802,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "journeyer",
+    "valence": 0.583,
+    "arousal": 0.63,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "story",
+    "valence": 0.4367,
+    "arousal": -0.279,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "untruthfully",
+    "valence": -1,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "drawl",
+    "valence": -0.143,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "nonselective",
+    "valence": -0.333,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "hyperactivity",
+    "valence": -0.667,
+    "arousal": 1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "facetiously",
+    "valence": 0.048,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "love bug",
+    "valence": 0.37,
+    "arousal": -0.084,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "translation",
+    "valence": 0.2142,
+    "arousal": -0.13,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "vitamin c",
+    "valence": 0.388,
+    "arousal": 0.044,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "power ranger",
+    "valence": 0.548,
+    "arousal": 0.344,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "pronouncedly",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "patient",
+    "valence": 0.2968,
+    "arousal": -0.5857,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "detainment",
+    "valence": -0.667,
+    "arousal": 0.481,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "population growth",
+    "valence": -0.122,
+    "arousal": 0.508,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "shopworn",
+    "valence": -0.667,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "unnaturally",
+    "valence": -0.524,
+    "arousal": 0.542,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "biggish",
+    "valence": 0.296,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "whimsicalness",
+    "valence": 0.619,
+    "arousal": 0.333,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "fiefdom",
+    "valence": -0.238,
+    "arousal": -0.556,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "inferentially",
+    "valence": 0.048,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "antimicrobial",
+    "valence": 0.667,
+    "arousal": 0.37,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "pervading",
+    "valence": -0.164,
+    "arousal": 0.368,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "adorability",
+    "valence": 0.944,
+    "arousal": -0.333,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "rematerialize",
+    "valence": 0.259,
+    "arousal": 0.611,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "dependability",
+    "valence": 1,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "haughtiness",
+    "valence": -0.667,
+    "arousal": 0.63,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "easygoing",
+    "valence": 0.5768,
+    "arousal": -0.449,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "waterloo",
+    "valence": -0.667,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "knots",
+    "valence": -0.164,
+    "arousal": -0.308,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "exec",
+    "valence": 0.1225,
+    "arousal": -0.3093,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "versus",
+    "valence": -0.38,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "delete",
+    "valence": -0.333,
+    "arousal": -0.3633,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "melodramatic",
+    "valence": -0.3638,
+    "arousal": 0.2908,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "unasserted",
+    "valence": -0.333,
+    "arousal": -1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "denouncement",
+    "valence": -0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "spoken",
+    "valence": 0.102,
+    "arousal": -0.274,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "hieroglyphics",
+    "valence": 0.1215,
+    "arousal": -0.3837,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "flowerlike",
+    "valence": 0.875,
+    "arousal": -1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "dead wrong",
+    "valence": -0.616,
+    "arousal": -0.1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "abdication",
+    "valence": -0.619,
+    "arousal": -0.63,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "time lapse",
+    "valence": -0.276,
+    "arousal": -0.046,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "pharmacologic",
+    "valence": 0.407,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "buy",
+    "valence": 0.4985,
+    "arousal": 0.1802,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "unfairness",
+    "valence": -0.66,
+    "arousal": 0.634,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "carcinoid",
+    "valence": -0.944,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "theatergoing",
+    "valence": 0.667,
+    "arousal": 0.292,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "phonotype",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "derivate",
+    "valence": 0.593,
+    "arousal": 0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "frictionally",
+    "valence": -0.333,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "reversely",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "armies",
+    "valence": -0.048,
+    "arousal": 0.815,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "ethically",
+    "valence": 0.958,
+    "arousal": -0.583,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "inaugurator",
+    "valence": 0.63,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "shuttle",
+    "valence": 0.1123,
+    "arousal": -0.0577,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "linearization",
+    "valence": 0,
+    "arousal": 0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "headmistress",
+    "valence": 0.524,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "art school",
+    "valence": 0.464,
+    "arousal": -0.15,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "restorative",
+    "valence": 0.266,
+    "arousal": 0.02,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "capitulatory",
+    "valence": -0.619,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "extant",
+    "valence": 0.292,
+    "arousal": -0.22,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "first aid",
+    "valence": -0.178,
+    "arousal": -0.124,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "dehydration",
+    "valence": -0.5145,
+    "arousal": -0.068,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "intercept",
+    "valence": -0.324,
+    "arousal": 0.1087,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "bad joke",
+    "valence": -0.594,
+    "arousal": -0.176,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "nuclear family",
+    "valence": 0.068,
+    "arousal": 0.118,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "overcompensation",
+    "valence": -0.556,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "flexibleness",
+    "valence": 0.667,
+    "arousal": -0.476,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "skillfully",
+    "valence": 1,
+    "arousal": 0.519,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "devastated",
+    "valence": -0.76,
+    "arousal": 0.088,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "discretely",
+    "valence": 0.083,
+    "arousal": -0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "pushing",
+    "valence": -0.208,
+    "arousal": 0.288,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "go it",
+    "valence": 0,
+    "arousal": -0.134,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "hike",
+    "valence": 0.325,
+    "arousal": -0.143,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "obstinate",
+    "valence": -0.5028,
+    "arousal": 0.1247,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "no disgust",
+    "valence": 0.02,
+    "arousal": -0.352,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "overconfidently",
+    "valence": -0.556,
+    "arousal": 0.778,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "squash",
+    "valence": -0.059,
+    "arousal": 0.027,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "terrified",
+    "valence": -0.7212,
+    "arousal": 0.5395,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "benchwarmer",
+    "valence": -0.407,
+    "arousal": 0.593,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "garnish",
+    "valence": 0.3712,
+    "arousal": -0.2445,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "countermeasure",
+    "valence": 0.125,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "fountain",
+    "valence": 0.3615,
+    "arousal": -0.4455,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "puts",
+    "valence": -0.144,
+    "arousal": -0.186,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "northbound",
+    "valence": 0.1603,
+    "arousal": -0.071,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "inarticulately",
+    "valence": -0.667,
+    "arousal": -0.63,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "circumvent",
+    "valence": -0.184,
+    "arousal": 0.017,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "hatefully",
+    "valence": -1,
+    "arousal": 0.852,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "goodwife",
+    "valence": 0.611,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "all right",
+    "valence": 0.34,
+    "arousal": -0.196,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "synchronize",
+    "valence": 0.4385,
+    "arousal": -0.259,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "board game",
+    "valence": 0.3967,
+    "arousal": -0.0355,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "implausibility",
+    "valence": -0.667,
+    "arousal": -0.519,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "phd",
+    "valence": 0.286,
+    "arousal": 0.032,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "remount",
+    "valence": 0.095,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "border crossing",
+    "valence": -0.172,
+    "arousal": 0.208,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "falcon",
+    "valence": 0.1195,
+    "arousal": 0.08,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "itemized",
+    "valence": 0,
+    "arousal": 0.333,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "stays",
+    "valence": 0.266,
+    "arousal": -0.274,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "beheld",
+    "valence": 0.542,
+    "arousal": -0.143,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "pheromone",
+    "valence": 0.1235,
+    "arousal": 0.068,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "essay",
+    "valence": 0.0465,
+    "arousal": -0.214,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "judicator",
+    "valence": 0.042,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "somberly",
+    "valence": -0.667,
+    "arousal": -0.944,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "tinkling",
+    "valence": 0.1532,
+    "arousal": 0.08,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "lawn sign",
+    "valence": 0.194,
+    "arousal": -0.122,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "first family",
+    "valence": 0.428,
+    "arousal": 0.032,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "voiceless",
+    "valence": -0.458,
+    "arousal": -0.53,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "uncalled",
+    "valence": -0.2985,
+    "arousal": -0.4185,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "feminist",
+    "valence": -0.185,
+    "arousal": -0.2775,
+    "confidence": 0.8,
+    "merge_strategy": "warriner_only"
+  },
+  {
+    "term": "suit up",
+    "valence": 0.124,
+    "arousal": 0.188,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "hussy",
+    "valence": -0.356,
+    "arousal": 0.2252,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "computer screen",
+    "valence": 0.344,
+    "arousal": -0.068,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "default",
+    "valence": -0.146,
+    "arousal": -0.2107,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "way round",
+    "valence": -0.134,
+    "arousal": -0.172,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "overtime",
+    "valence": -0.078,
+    "arousal": 0.0927,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "intoxicated",
+    "valence": -0.842,
+    "arousal": 0.648,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "bulldogged",
+    "valence": 0.667,
+    "arousal": 1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "lethargy",
+    "valence": -0.612,
+    "arousal": -0.396,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "master class",
+    "valence": 0.388,
+    "arousal": 0.136,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "coffee",
+    "valence": 0.573,
+    "arousal": -0.0695,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "fingerer",
+    "valence": -0.667,
+    "arousal": 0.593,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "prosthesis",
+    "valence": 0.407,
+    "arousal": 0.167,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "preceptor",
+    "valence": 0.042,
+    "arousal": -0.134,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "fighting words",
+    "valence": -0.534,
+    "arousal": 0.556,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "waterpower",
+    "valence": 0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "dejected",
+    "valence": -0.792,
+    "arousal": 0.308,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "polyp",
+    "valence": -0.375,
+    "arousal": -0.583,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "genteel",
+    "valence": 0.4282,
+    "arousal": -0.4945,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "disbarred",
+    "valence": -1,
+    "arousal": -0.619,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "in agreement",
+    "valence": 0.334,
+    "arousal": -0.27,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "indolent",
+    "valence": -0.646,
+    "arousal": -0.238,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "vest",
+    "valence": 0.2595,
+    "arousal": -0.2325,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "wan",
+    "valence": -0.232,
+    "arousal": -0.086,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "charismatic",
+    "valence": 0.6818,
+    "arousal": 0.1652,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "ironclad",
+    "valence": 0.0785,
+    "arousal": -0.0057,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "marijuana",
+    "valence": -0.3593,
+    "arousal": 0.199,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "preoccupation",
+    "valence": -0.25,
+    "arousal": 0.388,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "communality",
+    "valence": 0.667,
+    "arousal": -0.583,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "ideography",
+    "valence": 0,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "unorthodoxly",
+    "valence": 0,
+    "arousal": 0.625,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "unlikable",
+    "valence": -0.958,
+    "arousal": -0.296,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "dispiritedly",
+    "valence": -0.857,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "breakage",
+    "valence": -0.667,
+    "arousal": -0.19,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "bibliographical",
+    "valence": 0.125,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "traumatized",
+    "valence": -0.952,
+    "arousal": 0.762,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "reviver",
+    "valence": 0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "inexplicable",
+    "valence": -0.3322,
+    "arousal": 0.135,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "pegs",
+    "valence": -0.184,
+    "arousal": -0.428,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "historically",
+    "valence": 0.083,
+    "arousal": -0.583,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "uneventfully",
+    "valence": 0,
+    "arousal": -0.963,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "yay",
+    "valence": 0.388,
+    "arousal": 0.15,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "fryingpan",
+    "valence": 0,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "deckhouse",
+    "valence": 0.111,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "fandangle",
+    "valence": 0.048,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "focus on",
+    "valence": 0.38,
+    "arousal": 0.07,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "squalor",
+    "valence": -1,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "incontrollable",
+    "valence": -0.667,
+    "arousal": 1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "guerrilla",
+    "valence": -0.2435,
+    "arousal": 0.4907,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "levitator",
+    "valence": 0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "snipping",
+    "valence": -0.238,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "retaliation",
+    "valence": -0.594,
+    "arousal": 0.3332,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "isolate",
+    "valence": -0.3463,
+    "arousal": -0.128,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "cosmetic surgery",
+    "valence": -0.166,
+    "arousal": 0.308,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "copious",
+    "valence": -0.146,
+    "arousal": -0.076,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "talk to",
+    "valence": 0.2,
+    "arousal": -0.176,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "zone in",
+    "valence": 0.024,
+    "arousal": 0.05,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "sweet tooth",
+    "valence": 0.354,
+    "arousal": -0.13,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "determinant",
+    "valence": 0.25,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "instead of",
+    "valence": -0.064,
+    "arousal": -0.232,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "perfective",
+    "valence": 0.63,
+    "arousal": 0.167,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "mining",
+    "valence": 0.0705,
+    "arousal": 0.0442,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "ripple effect",
+    "valence": -0.12,
+    "arousal": 0.06,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "subtropical",
+    "valence": 0.667,
+    "arousal": -0.333,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "happening",
+    "valence": 0.292,
+    "arousal": 0.058,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "badhabit",
+    "valence": -0.632,
+    "arousal": 0.188,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "gassiness",
+    "valence": -0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "theologize",
+    "valence": 0,
+    "arousal": 0.542,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "count on",
+    "valence": 0.138,
+    "arousal": -0.098,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "wolves",
+    "valence": -0.333,
+    "arousal": 0.708,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "devolve",
+    "valence": -0.266,
+    "arousal": -0.146,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "annoyer",
+    "valence": -0.952,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "unfathomed",
+    "valence": -0.037,
+    "arousal": -1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "ongoing",
+    "valence": 0.1477,
+    "arousal": -0.111,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "clint eastwood",
+    "valence": 0.032,
+    "arousal": 0.152,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "high frequency",
+    "valence": 0.206,
+    "arousal": 0.328,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "booster dose",
+    "valence": 0.13,
+    "arousal": 0.472,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "undertake",
+    "valence": 0.1972,
+    "arousal": 0.1045,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "dermal",
+    "valence": -0.23,
+    "arousal": -0.188,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "account executive",
+    "valence": 0.2,
+    "arousal": 0.242,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "intransigence",
+    "valence": -0.667,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "mononucleosis",
+    "valence": -0.741,
+    "arousal": -0.375,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "last quarter",
+    "valence": -0.322,
+    "arousal": -0.08,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "postdate",
+    "valence": 0,
+    "arousal": -0.042,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "polarize",
+    "valence": -0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "tour",
+    "valence": 0.288,
+    "arousal": 0.02,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "philosophically",
+    "valence": 0.037,
+    "arousal": -0.625,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "elixir",
+    "valence": 0.293,
+    "arousal": -0.0442,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "reserved",
+    "valence": 0.1727,
+    "arousal": -0.4602,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "elusiveness",
+    "valence": -0.333,
+    "arousal": -0.556,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "tepidly",
+    "valence": -0.333,
+    "arousal": -1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "poor service",
+    "valence": -0.734,
+    "arousal": -0.17,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "transpolar",
+    "valence": 0.048,
+    "arousal": 0.519,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "dullard",
+    "valence": -0.09,
+    "arousal": -0.639,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "desperately",
+    "valence": -0.667,
+    "arousal": 0.905,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "rail",
+    "valence": -0.0175,
+    "arousal": -0.2975,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "amateurism",
+    "valence": -0.167,
+    "arousal": -0.333,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "thoracic",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "impartialness",
+    "valence": 0.667,
+    "arousal": -0.81,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "part",
+    "valence": 0.1342,
+    "arousal": -0.427,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "unreformed",
+    "valence": -0.667,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "bug",
+    "valence": -0.4077,
+    "arousal": 0.1325,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "uncorroborated",
+    "valence": -0.667,
+    "arousal": -0.583,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "storekeeper",
+    "valence": 0.056,
+    "arousal": -0.481,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "nonlinguistic",
+    "valence": 0,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "dog show",
+    "valence": -0.034,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "this stage",
+    "valence": -0.068,
+    "arousal": 0.072,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "duty",
+    "valence": 0.1242,
+    "arousal": -0.0823,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "harmlessness",
+    "valence": 1,
+    "arousal": -1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "sprig",
+    "valence": 0.333,
+    "arousal": -0.333,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "rustler",
+    "valence": -0.3177,
+    "arousal": 0.2675,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "misreport",
+    "valence": -0.778,
+    "arousal": 0.556,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "specialty",
+    "valence": 0.284,
+    "arousal": -0.1835,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "kerosene",
+    "valence": -0.3405,
+    "arousal": -0.102,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "room service",
+    "valence": 0.166,
+    "arousal": 0.102,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "airtight",
+    "valence": -0.0085,
+    "arousal": -0.3315,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "skittishly",
+    "valence": -0.63,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "homeless",
+    "valence": -0.8068,
+    "arousal": -0.1275,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "repression",
+    "valence": -0.5597,
+    "arousal": 0.1578,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "malady",
+    "valence": -0.4525,
+    "arousal": 0.121,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "slapping",
+    "valence": -0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "phantasm",
+    "valence": -0.333,
+    "arousal": -0.458,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "photomicroscope",
+    "valence": 0.667,
+    "arousal": -0.25,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "inadvertency",
+    "valence": -0.63,
+    "arousal": -0.926,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "radish",
+    "valence": -0.0375,
+    "arousal": -0.3453,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "fossil",
+    "valence": 0.105,
+    "arousal": -0.3205,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "practice",
+    "valence": 0.274,
+    "arousal": -0.2305,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "millimeter",
+    "valence": -0.0905,
+    "arousal": -0.4955,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "bulk",
+    "valence": -0.0447,
+    "arousal": -0.2833,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "crunch",
+    "valence": -0.2342,
+    "arousal": 0.0262,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "parolee",
+    "valence": -0.667,
+    "arousal": -0.333,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "jacks",
+    "valence": -0.02,
+    "arousal": -0.2,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "about",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "numerous",
+    "valence": 0.1657,
+    "arousal": -0.2392,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "repair",
+    "valence": 0.0692,
+    "arousal": -0.2425,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "autonomic",
+    "valence": 0,
+    "arousal": 0.407,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "headboard",
+    "valence": 0.048,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "plaudit",
+    "valence": 0.632,
+    "arousal": 0.626,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "pay cheque",
+    "valence": 0.234,
+    "arousal": 0.146,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "public housing",
+    "valence": -0.104,
+    "arousal": 0.18,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "rowdy",
+    "valence": -0.35,
+    "arousal": 0.385,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "wildfire",
+    "valence": -0.6475,
+    "arousal": 0.5415,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "real name",
+    "valence": 0.234,
+    "arousal": -0.234,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "provability",
+    "valence": 0.667,
+    "arousal": -0.37,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "workspace",
+    "valence": 0.5,
+    "arousal": 0.625,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "look into",
+    "valence": 0.31,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "adventurer",
+    "valence": 0.531,
+    "arousal": 0.3727,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "charterer",
+    "valence": 0,
+    "arousal": 0.583,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "rambler",
+    "valence": 0,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "implicitness",
+    "valence": 0,
+    "arousal": -0.593,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "signifier",
+    "valence": 0,
+    "arousal": -0.593,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "datable",
+    "valence": 0.25,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "groundcover",
+    "valence": 0.333,
+    "arousal": -0.778,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "farmost",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "forgiveness",
+    "valence": 0.3995,
+    "arousal": -0.19,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "loganberry",
+    "valence": 0.333,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "veterinary",
+    "valence": 0.2485,
+    "arousal": -0.2062,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "quenchless",
+    "valence": 0.429,
+    "arousal": 0.238,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "starship",
+    "valence": 0.405,
+    "arousal": 0.1978,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "stormy",
+    "valence": -0.3365,
+    "arousal": 0.56,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "settle on",
+    "valence": 0.066,
+    "arousal": -0.046,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "red hot",
+    "valence": 0.17,
+    "arousal": 0.086,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "rectangular",
+    "valence": -0.0307,
+    "arousal": -0.5475,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "stinking",
+    "valence": -0.918,
+    "arousal": 0.314,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "copycat",
+    "valence": -0.2597,
+    "arousal": 0.0325,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "copperware",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "curvaceous",
+    "valence": 0.333,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "memory card",
+    "valence": 0.38,
+    "arousal": -0.044,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "insulter",
+    "valence": -0.889,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "matcher",
+    "valence": 0,
+    "arousal": 0.611,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "reflexively",
+    "valence": 0,
+    "arousal": 0.958,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "pathway",
+    "valence": 0.2772,
+    "arousal": -0.3688,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "moment",
+    "valence": 0.2415,
+    "arousal": -0.1837,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "eclectically",
+    "valence": 0.667,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "march madness",
+    "valence": -0.282,
+    "arousal": 0.286,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "joyously",
+    "valence": 1,
+    "arousal": 1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "moonbeam",
+    "valence": 0.4713,
+    "arousal": -0.27,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "hunch",
+    "valence": 0.1085,
+    "arousal": 0.085,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "representative",
+    "valence": 0.119,
+    "arousal": -0.2302,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "extra curricular",
+    "valence": 0.516,
+    "arousal": 0.162,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "fried shrimp",
+    "valence": 0.134,
+    "arousal": 0.016,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "requalification",
+    "valence": 0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "clearheaded",
+    "valence": 0.667,
+    "arousal": 0.852,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "expecting",
+    "valence": 0.122,
+    "arousal": -0.1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "stave",
+    "valence": -0.166,
+    "arousal": -0.334,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "unlaundered",
+    "valence": -0.667,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "basically",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "closer",
+    "valence": -0.172,
+    "arousal": -0.2,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "stammer",
+    "valence": -0.37,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "tigger",
+    "valence": 0.81,
+    "arousal": 1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "forbiddance",
+    "valence": -0.905,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "receiving",
+    "valence": 0.438,
+    "arousal": 0.124,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "sharpness",
+    "valence": 0.458,
+    "arousal": -0.23,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "tyrant",
+    "valence": -0.6475,
+    "arousal": 0.3837,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "monogenic",
+    "valence": -0.095,
+    "arousal": -0.571,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "pave",
+    "valence": 0.1703,
+    "arousal": -0.2925,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "brasserie",
+    "valence": 0.708,
+    "arousal": 0.524,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "caballero",
+    "valence": 0.704,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "fedup",
+    "valence": -0.346,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "mend",
+    "valence": 0.2333,
+    "arousal": -0.219,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "veer",
+    "valence": -0.0772,
+    "arousal": -0.17,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "rheumatic",
+    "valence": -0.762,
+    "arousal": -0.333,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "multigenerational",
+    "valence": 0.407,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "iceman",
+    "valence": 0,
+    "arousal": -0.571,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "ruggedness",
+    "valence": 0.619,
+    "arousal": -0.524,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "overindulgent",
+    "valence": -0.667,
+    "arousal": -0.208,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "subliminal",
+    "valence": -0.0662,
+    "arousal": -0.0757,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "streamside",
+    "valence": 0.556,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "disenchantment",
+    "valence": -0.889,
+    "arousal": -0.619,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "fishhook",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "profit from",
+    "valence": 0.434,
+    "arousal": 0.08,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "endorsed",
+    "valence": 0.708,
+    "arousal": -0.238,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "lemming",
+    "valence": -0.143,
+    "arousal": 0.593,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "detached",
+    "valence": -0.3887,
+    "arousal": -0.279,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "life form",
+    "valence": 0.062,
+    "arousal": 0.124,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "narrower",
+    "valence": -0.333,
+    "arousal": -0.37,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "cool breeze",
+    "valence": 0.172,
+    "arousal": -0.188,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "come close",
+    "valence": 0.066,
+    "arousal": -0.136,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "songwriter",
+    "valence": 0.5002,
+    "arousal": -0.0132,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "guerilla",
+    "valence": -0.708,
+    "arousal": 0.69,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "pleasurable",
+    "valence": 0.7917,
+    "arousal": 0.1953,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "underpass",
+    "valence": -0.19,
+    "arousal": -0.095,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "sherpa",
+    "valence": 0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "posturer",
+    "valence": -0.476,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "hypnotically",
+    "valence": 0,
+    "arousal": 0.556,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "optimum",
+    "valence": 0.6895,
+    "arousal": -0.0047,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "semiconscious",
+    "valence": -0.519,
+    "arousal": -0.444,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "fluidly",
+    "valence": 0.667,
+    "arousal": 0.708,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "heard of",
+    "valence": -0.178,
+    "arousal": -0.072,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "climate",
+    "valence": 0.235,
+    "arousal": -0.3912,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "photocopy",
+    "valence": 0,
+    "arousal": 0.25,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "embarrass",
+    "valence": -0.6205,
+    "arousal": 0.2257,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "progeny",
+    "valence": 0.142,
+    "arousal": -0.298,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "skimp",
+    "valence": -0.667,
+    "arousal": 0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "multilevel",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "tote",
+    "valence": 0.0663,
+    "arousal": -0.1957,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "crucifer",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "apply for",
+    "valence": 0.26,
+    "arousal": 0.104,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "fluency",
+    "valence": 0.552,
+    "arousal": 0.008,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "masklike",
+    "valence": -0.667,
+    "arousal": -0.963,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "nihilism",
+    "valence": -0.266,
+    "arousal": 0.02,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "pricelist",
+    "valence": 0.042,
+    "arousal": -0.519,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "talk",
+    "valence": 0.538,
+    "arousal": -0.3565,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "neutralist",
+    "valence": 0,
+    "arousal": -0.519,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "minestrone",
+    "valence": 0.542,
+    "arousal": -0.074,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "press release",
+    "valence": -0.13,
+    "arousal": 0.158,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "reauthorization",
+    "valence": 0.667,
+    "arousal": 0.778,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "log in",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "objectless",
+    "valence": -0.444,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "changeable",
+    "valence": -0.02,
+    "arousal": -0.04,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "glacial",
+    "valence": -0.122,
+    "arousal": -0.346,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "loved",
+    "valence": 0.7583,
+    "arousal": 0.0257,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "disenchant",
+    "valence": -0.667,
+    "arousal": -0.619,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "decider",
+    "valence": 0.63,
+    "arousal": 0.611,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "repossess",
+    "valence": -0.332,
+    "arousal": 0.0833,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "characterization",
+    "valence": 0.5,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "middle finger",
+    "valence": -0.484,
+    "arousal": 0.106,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "incorporative",
+    "valence": 0.667,
+    "arousal": 0.143,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "earthen",
+    "valence": 0.292,
+    "arousal": -0.905,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "paleography",
+    "valence": 0,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "professorship",
+    "valence": 0.164,
+    "arousal": -0.322,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "defamatory",
+    "valence": -0.714,
+    "arousal": 0.376,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "telegram",
+    "valence": 0.0947,
+    "arousal": -0.0655,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "burdened",
+    "valence": -0.2873,
+    "arousal": -0.0935,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "festivities",
+    "valence": 1,
+    "arousal": 1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "inane",
+    "valence": -0.314,
+    "arousal": -0.3625,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "hatpin",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "assignee",
+    "valence": 0.02,
+    "arousal": -0.076,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "bedevil",
+    "valence": -0.667,
+    "arousal": 0.704,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "windbreaker",
+    "valence": 0.375,
+    "arousal": 0.048,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "afterparty",
+    "valence": 0.75,
+    "arousal": 1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "shackle",
+    "valence": -0.448,
+    "arousal": 0.16,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "minx",
+    "valence": 0.1517,
+    "arousal": -0.1122,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "lamplighter",
+    "valence": 0,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "venomously",
+    "valence": -1,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "biracial",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "abductor",
+    "valence": -1,
+    "arousal": 0.714,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "nunchucks",
+    "valence": -0.0755,
+    "arousal": 0.0425,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "cottage cheese",
+    "valence": 0,
+    "arousal": -0.366,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "scythe",
+    "valence": -0.048,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "undetectable",
+    "valence": -0.062,
+    "arousal": -0.0485,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "collarless",
+    "valence": 0,
+    "arousal": -0.037,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "displacer",
+    "valence": 0,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "compose",
+    "valence": 0.219,
+    "arousal": -0.2117,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "glacially",
+    "valence": -0.444,
+    "arousal": -0.958,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "ionizer",
+    "valence": 0.667,
+    "arousal": 0.417,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "causational",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "disaffirmation",
+    "valence": -0.667,
+    "arousal": -0.63,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "youngest",
+    "valence": 0.444,
+    "arousal": -0.178,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "haye",
+    "valence": 0.23,
+    "arousal": -0.098,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "missingyou",
+    "valence": -0.48,
+    "arousal": -0.058,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "griddle",
+    "valence": 0,
+    "arousal": -0.333,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "all around",
+    "valence": 0.266,
+    "arousal": 0.018,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "triathlete",
+    "valence": 0.667,
+    "arousal": 1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "inland",
+    "valence": 0.02,
+    "arousal": -0.166,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "reading glasses",
+    "valence": 0.488,
+    "arousal": -0.136,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "execution",
+    "valence": -0.68,
+    "arousal": 0.436,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "overanxiously",
+    "valence": -0.667,
+    "arousal": 0.952,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "seismograph",
+    "valence": 0,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "voyeurism",
+    "valence": -0.667,
+    "arousal": 0.625,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "cabinet",
+    "valence": 0.0645,
+    "arousal": -0.3503,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "deplorableness",
+    "valence": -1,
+    "arousal": -0.417,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "fondling",
+    "valence": 0.588,
+    "arousal": 0.128,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "naughtiness",
+    "valence": -0.762,
+    "arousal": 0.708,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "multiplicity",
+    "valence": 0.354,
+    "arousal": -0.02,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "publish",
+    "valence": 0.3277,
+    "arousal": -0.1192,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "oxidizer",
+    "valence": -0.333,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "spiritlessly",
+    "valence": -0.667,
+    "arousal": -1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "alkaloid",
+    "valence": 0,
+    "arousal": 0.407,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "homemaking",
+    "valence": 0.667,
+    "arousal": -0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "topless",
+    "valence": 0.17,
+    "arousal": 0.4662,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "proficiently",
+    "valence": 0.708,
+    "arousal": 0.63,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "authorship",
+    "valence": 0.334,
+    "arousal": 0.27,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "preference",
+    "valence": 0.437,
+    "arousal": -0.0962,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "inconsolability",
+    "valence": -0.667,
+    "arousal": -0.75,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "diffidently",
+    "valence": -0.667,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "thankless",
+    "valence": -0.5252,
+    "arousal": -0.0175,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "quadrilateral",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "locale",
+    "valence": -0.102,
+    "arousal": -0.226,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "nag",
+    "valence": -0.5665,
+    "arousal": -0.084,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "pin on",
+    "valence": -0.282,
+    "arousal": -0.23,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "discoloration",
+    "valence": -0.4235,
+    "arousal": -0.2457,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "pita",
+    "valence": 0.1698,
+    "arousal": -0.346,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "attempt",
+    "valence": 0.25,
+    "arousal": -0.0165,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "single",
+    "valence": -0.1603,
+    "arousal": -0.2897,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "bath salts",
+    "valence": -0.134,
+    "arousal": -0.048,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "homesweethome",
+    "valence": 0.592,
+    "arousal": -0.24,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "particle",
+    "valence": 0.051,
+    "arousal": -0.2675,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "flattener",
+    "valence": -0.476,
+    "arousal": 0.444,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "barbedwire",
+    "valence": -0.593,
+    "arousal": -0.417,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "spindly",
+    "valence": -0.542,
+    "arousal": -0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "facebook",
+    "valence": 0.476,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "immigrate",
+    "valence": 0,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "raconteur",
+    "valence": 0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "protract",
+    "valence": -0.583,
+    "arousal": 0.467,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "transference",
+    "valence": 0.017,
+    "arousal": -0.401,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "glory days",
+    "valence": 0.4,
+    "arousal": 0.184,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "cholesterol",
+    "valence": -0.457,
+    "arousal": -0.1608,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "moistener",
+    "valence": 0,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "tag team",
+    "valence": 0.178,
+    "arousal": 0.11,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "thither",
+    "valence": 0,
+    "arousal": -0.46,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "peace sign",
+    "valence": 0.556,
+    "arousal": -0.262,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "firebox",
+    "valence": 0.042,
+    "arousal": 0.741,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "impolitely",
+    "valence": -0.733,
+    "arousal": -0.556,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "dropkick",
+    "valence": -0.619,
+    "arousal": 1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "decipherer",
+    "valence": 0.733,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "artiste",
+    "valence": 0.5102,
+    "arousal": -0.238,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "sportsman",
+    "valence": 0.3662,
+    "arousal": 0.2162,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "exchangeability",
+    "valence": 0.667,
+    "arousal": -0.571,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "window dressing",
+    "valence": 0.138,
+    "arousal": 0.044,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "fluent",
+    "valence": 0.4512,
+    "arousal": -0.1375,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "en masse",
+    "valence": 0.108,
+    "arousal": 0.016,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "uncontained",
+    "valence": -0.375,
+    "arousal": 0.875,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "deflectable",
+    "valence": 0,
+    "arousal": -0.185,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "lumberyard",
+    "valence": 0,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "bluebottle",
+    "valence": 0,
+    "arousal": 0.25,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "taxpayers",
+    "valence": 0,
+    "arousal": 0.208,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "dumfounder",
+    "valence": -0.188,
+    "arousal": -0.038,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "sidestep",
+    "valence": -0.244,
+    "arousal": 0.118,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "blind man",
+    "valence": -0.346,
+    "arousal": -0.106,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "stylist",
+    "valence": 0.385,
+    "arousal": -0.265,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "laundering",
+    "valence": -0.0235,
+    "arousal": -0.3342,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "tacitly",
+    "valence": 0,
+    "arousal": -0.625,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "magnate",
+    "valence": 0.254,
+    "arousal": 0.416,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "limitlessly",
+    "valence": 0.625,
+    "arousal": 0.042,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "illusionist",
+    "valence": 0.444,
+    "arousal": 0.708,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "terracotta",
+    "valence": 0.381,
+    "arousal": -0.741,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "goodhealth",
+    "valence": 0.876,
+    "arousal": -0.196,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "mettlesome",
+    "valence": 1,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "legislatorial",
+    "valence": 0,
+    "arousal": 0.63,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "neuter",
+    "valence": 0.0097,
+    "arousal": -0.3495,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "meridian",
+    "valence": 0.02,
+    "arousal": -0.352,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "remap",
+    "valence": 0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "imponderably",
+    "valence": 0,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "bookless",
+    "valence": -0.37,
+    "arousal": -0.708,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "far gone",
+    "valence": -0.138,
+    "arousal": 0.052,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "sanctimonious",
+    "valence": -0.3387,
+    "arousal": -0.1475,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "registration",
+    "valence": 0.0958,
+    "arousal": -0.3427,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "hitter",
+    "valence": -0.3257,
+    "arousal": 0.1267,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "savor",
+    "valence": 0.579,
+    "arousal": -0.118,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "phonographic",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "evening",
+    "valence": 0.2192,
+    "arousal": -0.5525,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "thoughtfulness",
+    "valence": 0.734,
+    "arousal": -0.462,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "dark side",
+    "valence": -0.484,
+    "arousal": -0.032,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "cheerio",
+    "valence": 1,
+    "arousal": 0.619,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "potpie",
+    "valence": 0.63,
+    "arousal": -0.556,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "subside",
+    "valence": -0.0725,
+    "arousal": -0.4295,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "crap out",
+    "valence": -0.534,
+    "arousal": -0.05,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "canter",
+    "valence": 0.296,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "seller",
+    "valence": 0.1125,
+    "arousal": -0.1427,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "boastfulness",
+    "valence": -0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "determined",
+    "valence": 0.469,
+    "arousal": 0.056,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "indignity",
+    "valence": -0.5368,
+    "arousal": -0.0437,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "heliotropism",
+    "valence": 0.267,
+    "arousal": 0.333,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "moored",
+    "valence": -0.312,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "dogmatism",
+    "valence": -0.667,
+    "arousal": -0.083,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "remediate",
+    "valence": 0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "inn",
+    "valence": 0.2487,
+    "arousal": -0.4335,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "get worse",
+    "valence": -0.82,
+    "arousal": 0.17,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "jellification",
+    "valence": 0.048,
+    "arousal": -0.905,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "perpetuation",
+    "valence": 0.02,
+    "arousal": 0.354,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "malformation",
+    "valence": -0.834,
+    "arousal": 0.204,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "redeemed",
+    "valence": 0.25,
+    "arousal": -0.244,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "breadline",
+    "valence": -0.667,
+    "arousal": -0.556,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "sleepyhead",
+    "valence": -0.1192,
+    "arousal": -0.4187,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "balding",
+    "valence": -0.4417,
+    "arousal": -0.3395,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "hypochondriacally",
+    "valence": -0.714,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "nurse practitioner",
+    "valence": 0.456,
+    "arousal": 0.216,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "bothersome",
+    "valence": -0.833,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "sacrosanct",
+    "valence": 0.867,
+    "arousal": -0.867,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "happydance",
+    "valence": 0.714,
+    "arousal": 0.52,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "high",
+    "valence": 0.2802,
+    "arousal": -0.1025,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "boo",
+    "valence": -0.694,
+    "arousal": 0.352,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "thatch",
+    "valence": -0.138,
+    "arousal": -0.53,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "trickle down",
+    "valence": -0.334,
+    "arousal": 0.334,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "crossfire",
+    "valence": -0.289,
+    "arousal": 0.5085,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "backbiter",
+    "valence": -1,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "badminton",
+    "valence": 0.714,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "macroscopically",
+    "valence": 0,
+    "arousal": -0.458,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "badday",
+    "valence": -0.346,
+    "arousal": -0.102,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "cool air",
+    "valence": 0.63,
+    "arousal": -0.458,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "woohoo",
+    "valence": 0.316,
+    "arousal": 0.34,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "frequencies",
+    "valence": 0.583,
+    "arousal": 0.417,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "partly",
+    "valence": -0.17,
+    "arousal": -0.18,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "sentimental",
+    "valence": 0.2417,
+    "arousal": -0.3782,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "liturgical",
+    "valence": 0,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "threadlike",
+    "valence": 0,
+    "arousal": -0.63,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "coupled",
+    "valence": 0.224,
+    "arousal": -0.428,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "common courtesy",
+    "valence": 0.65,
+    "arousal": 0.016,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "showman",
+    "valence": 0.625,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "gyrator",
+    "valence": 0,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "freakishness",
+    "valence": -0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "nonscientist",
+    "valence": -0.074,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "cobwebby",
+    "valence": -0.667,
+    "arousal": -0.963,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "unadvised",
+    "valence": -0.667,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "nonsmoker",
+    "valence": 0.667,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "newspaper",
+    "valence": 0.1158,
+    "arousal": -0.5082,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "sincerity",
+    "valence": 0.7705,
+    "arousal": -0.2215,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "robber",
+    "valence": -0.6275,
+    "arousal": 0.422,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "war on",
+    "valence": -0.6,
+    "arousal": 0.242,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "fourfold",
+    "valence": 0.03,
+    "arousal": -0.092,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "indigestion",
+    "valence": -0.611,
+    "arousal": -0.1025,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "monastic",
+    "valence": -0.124,
+    "arousal": -0.372,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "immolation",
+    "valence": -0.917,
+    "arousal": 0.944,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "live around",
+    "valence": 0.112,
+    "arousal": -0.08,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "discharged",
+    "valence": -0.167,
+    "arousal": 0.63,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "wattage",
+    "valence": 0,
+    "arousal": 0.037,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "sporadically",
+    "valence": -0.125,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "foresightedness",
+    "valence": 0.75,
+    "arousal": -0.583,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "gloat",
+    "valence": -0.165,
+    "arousal": -0.0192,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "insubordinate",
+    "valence": -0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "hopes",
+    "valence": 0.834,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "take credit",
+    "valence": 0.068,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "solver",
+    "valence": 1,
+    "arousal": 0.63,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "statesmanship",
+    "valence": 0.963,
+    "arousal": -0.37,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "arrive at",
+    "valence": 0.068,
+    "arousal": -0.104,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "protozoa",
+    "valence": -0.3,
+    "arousal": -0.096,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "tranquilizer",
+    "valence": -0.0075,
+    "arousal": -0.499,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "earthbound",
+    "valence": -0.25,
+    "arousal": -0.556,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "lip liner",
+    "valence": 0.066,
+    "arousal": -0.03,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "interrupter",
+    "valence": -0.611,
+    "arousal": 0.905,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "processional",
+    "valence": 0.667,
+    "arousal": 0.619,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "grades",
+    "valence": 0.042,
+    "arousal": -0.302,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "flexor",
+    "valence": 0.37,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "raising hell",
+    "valence": -0.276,
+    "arousal": 0.216,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "lira",
+    "valence": 0.105,
+    "arousal": -0.4825,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "craftsperson",
+    "valence": 0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "gasbag",
+    "valence": -0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "smolder",
+    "valence": -0.583,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "splotch",
+    "valence": -0.333,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "martingale",
+    "valence": -0.062,
+    "arousal": 0.02,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "unknotted",
+    "valence": 0.625,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "unintentionally",
+    "valence": -0.08,
+    "arousal": -0.02,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "stumper",
+    "valence": -0.667,
+    "arousal": 0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "intermediate",
+    "valence": -0.0138,
+    "arousal": -0.347,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "microclimatological",
+    "valence": 0,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "foreign",
+    "valence": 0.0555,
+    "arousal": 0.2347,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "immaturely",
+    "valence": -0.667,
+    "arousal": 0.333,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "on special",
+    "valence": 0.5,
+    "arousal": -0.088,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "affirmatively",
+    "valence": 0.816,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "jerks",
+    "valence": -0.572,
+    "arousal": 0.576,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "gasless",
+    "valence": 0.292,
+    "arousal": -0.944,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "normative",
+    "valence": 0.083,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "doer",
+    "valence": 0.3027,
+    "arousal": -0.0275,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "anchorman",
+    "valence": 0.524,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "daintily",
+    "valence": 0.667,
+    "arousal": -0.296,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "low risk",
+    "valence": -0.108,
+    "arousal": -0.228,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "rat race",
+    "valence": -0.25,
+    "arousal": 0.186,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "population density",
+    "valence": 0,
+    "arousal": 0.018,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "palatable",
+    "valence": 0.74,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "clot",
+    "valence": -0.6062,
+    "arousal": -0.0457,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "deerhound",
+    "valence": 0.444,
+    "arousal": 0.429,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "pigtail",
+    "valence": 0.037,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "outdo",
+    "valence": 0.2647,
+    "arousal": 0.3037,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "benefactress",
+    "valence": 1,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "contemporaneously",
+    "valence": 0,
+    "arousal": 0.048,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "elative",
+    "valence": 0.667,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "classable",
+    "valence": 0,
+    "arousal": -0.625,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "midyear",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "manuscript",
+    "valence": 0.1412,
+    "arousal": -0.5057,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "disagreeability",
+    "valence": -0.722,
+    "arousal": -0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "loose cannon",
+    "valence": -0.656,
+    "arousal": 0.066,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "ruthlessness",
+    "valence": -1,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "opposable",
+    "valence": 0.625,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "hang out",
+    "valence": -0.166,
+    "arousal": -0.162,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "consolatory",
+    "valence": 0.667,
+    "arousal": -0.963,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "facade",
+    "valence": -0.0262,
+    "arousal": -0.3395,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "miscellaneously",
+    "valence": 0,
+    "arousal": 0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "sequence",
+    "valence": 0.148,
+    "arousal": -0.4125,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "rewash",
+    "valence": 0,
+    "arousal": 0.5,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "bellboy",
+    "valence": 0.0357,
+    "arousal": -0.3708,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "mountain dew",
+    "valence": 0.0757,
+    "arousal": -0.0008,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "geostationary",
+    "valence": 0,
+    "arousal": 0.25,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "typology",
+    "valence": 0,
+    "arousal": 0.292,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "syntactic",
+    "valence": 0,
+    "arousal": 0.375,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "dental work",
+    "valence": -0.068,
+    "arousal": 0.068,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "unconstructed",
+    "valence": -0.056,
+    "arousal": -0.583,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "leftover",
+    "valence": -0.0612,
+    "arousal": -0.1313,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "cow milk",
+    "valence": 0.172,
+    "arousal": -0.406,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "pulpwood",
+    "valence": 0,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "adventurously",
+    "valence": 0.667,
+    "arousal": 0.875,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "ingenuity",
+    "valence": 0.398,
+    "arousal": 0.0137,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "unexploited",
+    "valence": -0.056,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "no pressure",
+    "valence": 0.234,
+    "arousal": -0.432,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "impossible",
+    "valence": -0.5345,
+    "arousal": -0.05,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "disjunctive",
+    "valence": -0.428,
+    "arousal": -0.038,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "congressionalist",
+    "valence": 0,
+    "arousal": 0.583,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "multitalented",
+    "valence": 1,
+    "arousal": 0.593,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "instant",
+    "valence": 0.371,
+    "arousal": -0.1297,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "bliss",
+    "valence": 0.6435,
+    "arousal": -0.1087,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "anywhere",
+    "valence": 0.28,
+    "arousal": -0.268,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "predominance",
+    "valence": 0.368,
+    "arousal": 0.404,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "fill",
+    "valence": 0.299,
+    "arousal": -0.2572,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "hire",
+    "valence": 0.4492,
+    "arousal": 0.1393,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "falconry",
+    "valence": 0.524,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "thanks again",
+    "valence": 0.518,
+    "arousal": -0.178,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "rearmament",
+    "valence": -0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "externalize",
+    "valence": 0.037,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "being that",
+    "valence": -0.036,
+    "arousal": -0.27,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "priority",
+    "valence": 0.5242,
+    "arousal": 0.0432,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "opt in",
+    "valence": 0.096,
+    "arousal": -0.076,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "concord",
+    "valence": 0.354,
+    "arousal": -0.36,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "verbal",
+    "valence": 0.0563,
+    "arousal": -0.364,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "destroying",
+    "valence": -0.918,
+    "arousal": 0.656,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "huge impact",
+    "valence": 0.066,
+    "arousal": 0.354,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "disordered",
+    "valence": -0.58,
+    "arousal": 0.428,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "good reason",
+    "valence": 0.758,
+    "arousal": -0.352,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "quadrillionth",
+    "valence": 0,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "lift",
+    "valence": 0.244,
+    "arousal": 0.0055,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "wrongful",
+    "valence": -0.648,
+    "arousal": 0.24,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "retrospection",
+    "valence": 0.037,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "remedially",
+    "valence": 0.333,
+    "arousal": 0.048,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "dayoff",
+    "valence": 0.52,
+    "arousal": -0.264,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "centralize",
+    "valence": 0.368,
+    "arousal": -0.146,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "comfortableness",
+    "valence": 0.958,
+    "arousal": -0.917,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "ineptitude",
+    "valence": -0.646,
+    "arousal": -0.058,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "regenerate",
+    "valence": 0.377,
+    "arousal": 0.0633,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "ditty",
+    "valence": 0.0175,
+    "arousal": -0.232,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "untruly",
+    "valence": -1,
+    "arousal": 0.095,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "automobilist",
+    "valence": 0,
+    "arousal": 0.63,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "kilt",
+    "valence": -0.037,
+    "arousal": -0.1865,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "bodacious",
+    "valence": 1,
+    "arousal": 0.593,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "giver",
+    "valence": 0.4555,
+    "arousal": -0.2313,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "nagging",
+    "valence": -0.667,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "occultist",
+    "valence": -0.333,
+    "arousal": 0.556,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "remand",
+    "valence": -0.51,
+    "arousal": -0.108,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "summer",
+    "valence": 0.6245,
+    "arousal": -0.067,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "second base",
+    "valence": 0.234,
+    "arousal": -0.156,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "stereoscopy",
+    "valence": 0.222,
+    "arousal": 0,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "tendonitis",
+    "valence": -0.714,
+    "arousal": -0.222,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "sociality",
+    "valence": 0.714,
+    "arousal": 0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "unshapely",
+    "valence": -0.667,
+    "arousal": -0.524,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "capped off",
+    "valence": -0.25,
+    "arousal": 0.02,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "old",
+    "valence": -0.4525,
+    "arousal": -0.13,
+    "confidence": 0.8,
+    "merge_strategy": "warriner_only"
+  },
+  {
+    "term": "tied up",
+    "valence": -0.518,
+    "arousal": -0.032,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "reroll",
+    "valence": 0.167,
+    "arousal": 0.63,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "uncalculated",
+    "valence": -0.111,
+    "arousal": -0.125,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "attributable",
+    "valence": 0.408,
+    "arousal": -0.14,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "fitted",
+    "valence": 0.014,
+    "arousal": -0.192,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "prep",
+    "valence": 0.2243,
+    "arousal": -0.2172,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "blanket",
+    "valence": 0.4962,
+    "arousal": -0.7143,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "untalented",
+    "valence": -1,
+    "arousal": -0.611,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "meditatively",
+    "valence": 0.333,
+    "arousal": -1,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "join up",
+    "valence": 0.066,
+    "arousal": 0.126,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "thesis",
+    "valence": 0.0455,
+    "arousal": -0.0305,
+    "confidence": 0.9,
+    "merge_strategy": "both_weighted"
+  },
+  {
+    "term": "prerecord",
+    "valence": 0,
+    "arousal": 0.296,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "braised",
+    "valence": 0.667,
+    "arousal": -0.667,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  },
+  {
+    "term": "nonelectrical",
+    "valence": 0,
+    "arousal": -0.625,
+    "confidence": 0.7,
+    "merge_strategy": "nrc_only"
+  }
+]

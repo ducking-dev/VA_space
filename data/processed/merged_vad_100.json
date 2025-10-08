@@ -1,0 +1,39 @@
+{
+  "creation_time": "2025-10-02T21:29:22.210822",
+  "source_file": "G:\\내 드라이브\\VEATIC\\VA_space\\data\\processed\\merged_vad.csv",
+  "scale_transformation": "[-1, 1] → [-100, 100]",
+  "transformation_formula": "new_value = original_value * 100",
+  "total_entries": 54893,
+  "columns": [
+    "term",
+    "source_warriner",
+    "source_nrc",
+    "is_multiword",
+    "valence_mean",
+    "arousal_mean",
+    "dominance_mean",
+    "merge_strategy",
+    "confidence"
+  ],
+  "validation_passed": true,
+  "vad_statistics": {
+    "valence_mean": {
+      "min": -100.0,
+      "max": 100.0,
+      "mean": -0.11090803927641062,
+      "std": 45.97794644026655
+    },
+    "arousal_mean": {
+      "min": -100.0,
+      "max": 100.0,
+      "mean": -0.7275176251981125,
+      "std": 45.074474753545275
+    },
+    "dominance_mean": {
+      "min": -100.0,
+      "max": 100.0,
+      "mean": 4.951642285901663,
+      "std": 39.36976241540607
+    }
+  }
+}

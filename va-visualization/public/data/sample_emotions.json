@@ -1,0 +1,11 @@
+[
+  {"term":"happy","valence":0.8,"arousal":0.5,"confidence":0.9,"merge_strategy":"both_weighted"},
+  {"term":"sad","valence":-0.7,"arousal":-0.3,"confidence":0.9,"merge_strategy":"both_weighted"},
+  {"term":"angry","valence":-0.7,"arousal":0.7,"confidence":0.9,"merge_strategy":"both_weighted"},
+  {"term":"calm","valence":0.4,"arousal":-0.4,"confidence":0.9,"merge_strategy":"both_weighted"},
+  {"term":"fear","valence":-0.75,"arousal":0.75,"confidence":0.9,"merge_strategy":"warriner_only"},
+  {"term":"surprise","valence":0.0,"arousal":0.7,"confidence":0.8,"merge_strategy":"nrc_only"},
+  {"term":"joy","valence":0.8,"arousal":0.55,"confidence":0.95,"merge_strategy":"both_weighted"},
+  {"term":"disgust","valence":-0.65,"arousal":0.35,"confidence":0.85,"merge_strategy":"both_weighted"}
+]
+
